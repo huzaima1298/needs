@@ -1,0 +1,15 @@
+.btn-primary{
+	background:#ff7043 !important;
+	border:#ff7043 !important;
+}
+.btn-secondary {
+    background-color: #9E9E9E !important;
+    border-color: #BDBDBD !important;
+}
+a{
+	color: #2196f3 ;
+}
+
+.form-control, select, .modal, .btn{
+	border-radius: 0px !important;
+}
